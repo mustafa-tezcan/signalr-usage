@@ -3,40 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>SignalR Kullanımı Örneği</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            padding: 40px;
-            max-width: 800px;
-            margin: auto;
-            background-color: #f9f9f9;
-            color: #333;
-        }
-        h1 {
-            color: #2c3e50;
-            border-bottom: 2px solid #2c3e50;
-            padding-bottom: 10px;
-        }
-        h2 {
-            color: #34495e;
-            margin-top: 30px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        li {
-            margin-bottom: 8px;
-        }
-        code {
-            background-color: #ecf0f1;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-    </style>
 </head>
 <body>
     <h1>SignalR Kullanımı Örneği</h1>
