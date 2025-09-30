@@ -1,10 +1,6 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
+
     <title>SignalR Kullanımı Örneği</title>
-</head>
-<body>
+
     <h1>SignalR Kullanımı Örneği</h1>
 
     <h2>Projenin Amacı</h2>
@@ -25,5 +21,4 @@
         <li><strong>SignalR</strong>: Gerçek zamanlı mesajlaşma ve grup yönetimi</li>
         <li><strong>HTML5 & jQuery</strong>: Önyüz ve istemci tarafı etkileşimleri</li>
     </ul>
-</body>
-</html>
+
